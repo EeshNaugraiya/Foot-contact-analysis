@@ -32,7 +32,7 @@ Foot contact estimation is a fundamental problem in biomechanics with applicatio
   - Resampled data for consistency in frame rates.  
   - Applied normalization to align input values within a standard range.  
   - Augmented data using transformations like temporal jittering, adding robustness to the models.  
-- **Split Ratio**: Divided into training (80%), validation (10%), and testing (10%) subsets to ensure balanced evaluation.  
+- **Split Ratio**: Divided into training (80%), validation (20%), and separate human dataset for testing to ensure balanced evaluation.  
 
 ---
 
