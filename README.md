@@ -1,8 +1,3 @@
-# Foot-contact-analysis
-Here’s the complete **README** file, combining the detailed methodology and key features along with the necessary sections for an effective presentation:  
-
----
-
 # Foot Contact Analysis  
 
 ## Project Overview  
