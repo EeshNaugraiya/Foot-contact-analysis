@@ -7,7 +7,7 @@ Foot contact estimation is a fundamental problem in biomechanics with applicatio
 
 ## Key Features  
 1. **Extensive Dataset Utilization**:  
-   - Employed a 20GB dataset comprising motion sequences annotated with foot contact states such as heel contact, mid-stance, and toe-off.  
+   - Employed a 20GB dataset[Mixamo dataset(https://www.mixamo.com/#/)] comprising motion sequences annotated with foot contact states such as heel contact, mid-stance, and toe-off.  
    - Implemented preprocessing techniques to standardize data, improve quality, and create training-ready samples.  
 
 2. **Model Development and Optimization**:  
