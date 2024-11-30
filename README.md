@@ -101,35 +101,6 @@ Foot contact estimation is a fundamental problem in biomechanics with applicatio
 
 ---
 
-## How to Run the Project  
-
-1. **Clone the Repository**:  
-   ```bash  
-   git clone https://github.com/yourusername/foot-contact-analysis.git  
-   cd foot-contact-analysis  
-   ```  
-
-2. **Install Dependencies**:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-3. **Run Preprocessing**:  
-   ```bash  
-   python preprocess.py  
-   ```  
-
-4. **Train the Model**:  
-   ```bash  
-   python train.py --model {model_name}  
-   ```  
-
-5. **Evaluate the Model**:  
-   ```bash  
-   python evaluate.py  
-   ```  
-
----
 
 ## Acknowledgments  
 - **Pre-trained Models**: VGG16 and ResNet50 from TensorFlow/Keras libraries.  
